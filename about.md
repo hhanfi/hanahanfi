@@ -1,1 +1,3 @@
-This is the about page
+layout: page
+title: "about"
+permalink: https://hhanfi.github.io/hanahanfi/about
